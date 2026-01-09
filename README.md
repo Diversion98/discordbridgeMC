@@ -44,7 +44,7 @@ Designed for public servers, modpacks, and paid environments — while ensuring 
 4. Configure:
    - Discord bot token
    - Channel IDs
-   - Database connection
+   - Database connection (if desired)
 5. Restart the server
 
 ---
