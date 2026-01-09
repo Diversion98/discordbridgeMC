@@ -1,0 +1,13 @@
+{
+  "itemGroup.discordbridge": "Example Mod Tab",
+  "block.discordbridge.example_block": "Example Block",
+  "item.discordbridge.example_item": "Example Item",
+
+  "discordbridge.configuration.title": "Discord Bridge Configs",
+  "discordbridge.configuration.section.discordbridge.common.toml": "Discord Bridge Configs",
+  "discordbridge.configuration.section.discordbridge.common.toml.title": "Discord Bridge Configs",
+  "discordbridge.configuration.items": "Item List",
+  "discordbridge.configuration.logDirtBlock": "Log Dirt Block",
+  "discordbridge.configuration.magicNumberIntroduction": "Magic Number Text",
+  "discordbridge.configuration.magicNumber": "Magic Number"
+}
